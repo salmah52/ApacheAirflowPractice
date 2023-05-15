@@ -1,5 +1,5 @@
 #Let us create a DAG that runs daily, and extracts user information from /etc/passwd file, transforms it, and loads it into a file.
-
+# cp my_first_dag.py $AIRFLOW_HOME/dags
 #This DAG has two tasks extract that extracts fields from /etc/passwd file and transform_and_load that transforms and loads data into a fil
 #step1 
 # import the libraries
