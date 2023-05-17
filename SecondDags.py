@@ -1,3 +1,23 @@
+
+
+#Problem:
+
+
+#ask 1: Create the imports block.
+
+#Task 2: Create the DAG Arguments block. You can use the default settings
+
+#Task 3: Create the DAG definition block. The DAG should run daily.
+
+#Task 4: Create the download task.
+
+#download task must download the server access log file which is available at the URL: https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0250EN-SkillsNetwork/labs/Apache%20Airflow/Build%20a%20DAG%20using%20Airflow/web-server-access-log.txt
+
+#Task 5: Create the extract task.
+
+
+
+
 # Create the imports block.
 # import the libraries
 
